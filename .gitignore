@@ -1,1 +1,8 @@
 *~
+.hg*
+a.out
+*.bin
+*.elf
+*.hex
+*.map
+bin/
