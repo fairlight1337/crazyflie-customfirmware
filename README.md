@@ -1,4 +1,5 @@
-===== Custom Crazyflie Nano Firmware =====
+Custom Crazyflie Nano Firmware
+==============================
 
 THIS IS BASED ON THE ORIGINAL BITCRAZE FIRMWARE!
 
